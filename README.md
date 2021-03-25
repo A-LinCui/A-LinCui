@@ -1,4 +1,5 @@
-![A-LinCui's github stats](https://github-readme-stats.vercel.app/api?username=A-LinCui&count_private=true&show_icons=true&theme=highcontrast&line_height=21) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-LinCui&layout=compact&theme=highcontrast&card_width=240)](https://github.com/anuraghazra/github-readme-stats)
+![A-LinCui's github stats](https://github-readme-stats.vercel.app/api?username=A-LinCui&count_private=true&show_icons=true&theme=highcontrast&line_height=21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-LinCui&count_private=true&layout=compact&theme=highcontrast&card_width=240)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **A-LinCui/A-LinCui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
