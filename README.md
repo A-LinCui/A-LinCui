@@ -2,7 +2,7 @@ This is **Junbo Zhao**, currently a PhD student at Department of Computer Scienc
 
 Feel free to contact him through [zhaojunbo2012@sina.cn](zhaojunbo2012@sina.cn) for discussion and cooperation.
 
-I have done research about these fields:
+He has done research about these fields:
 - *Automated Machine Learning* (NAS, HPO)
 - *Efficient Network Design*
 - *Neural Network Safety* (adversarial robustness, fault tolerance)
